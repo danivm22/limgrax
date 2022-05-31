@@ -1,0 +1,28 @@
+.banner {
+	background-image: linear-gradient(300deg, rgba(200,200,200,0.8) 0%, rgba(200,200,200,0.2) 75%), 
+		url(../../images/desengrasante.avif);
+	background-size: cover;
+	background-position: center;
+	padding: 50px 0px;
+}
+.banner img{
+	height: 150px;
+	width: 150px;
+	border: 50%;
+	border-radius: 50%;
+	text-align: right;
+	margin: auto 10px;
+}
+.banner h1{
+	color: #0F4955;
+	font-weight: bolder;
+	font-size: 90px;
+	}
+.banner h2{
+	color: #0F4955;
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin: 60px auto;
+
+}
